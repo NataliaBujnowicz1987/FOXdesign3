@@ -1187,8 +1187,8 @@ footer .footer-contactDetails-details {
 /* MOBILE DEVICES */
 @media screen and (max-width: 568px) {
     body {
-        /* width: 100%;
-        max-width: 100vw; */
+        width: 100%;
+        max-width: 100vw;
         overflow-x: hidden;
     }
 
