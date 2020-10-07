@@ -1,0 +1,56 @@
+<svg width="440" height="653" viewBox="0 0 440 653" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="FOXdesign">
+    <g id="FOXhead">
+    <path d="M265.591 405.495L66.2851 358.47" stroke="#E0C253" stroke-width="5"/>
+    <path d="M437.912 245.916L352.282 339.84" stroke="#E0C253" stroke-width="5"/>
+    <path d="M361.297 154.187L434.784 246.455" stroke="#E0C253" stroke-width="5"/>
+    <path d="M259.47 119.761L361 153.5" stroke="#E0C253" stroke-width="5"/>
+    <path d="M344 10.1111L361.305 155.969" stroke="#E0C253" stroke-width="5"/>
+    <path d="M344.547 9.46579L255.777 120.589" stroke="#E0C253" stroke-width="5"/>
+    <path d="M256.857 119L146.29 153.578" stroke="#E0C253" stroke-width="5"/>
+    <path d="M150.612 152.228L77.4918 237.794" stroke="#E0C253" stroke-width="5"/>
+    <path d="M78.5989 235.752L66.9703 361" stroke="#E0C253" stroke-width="5"/>
+    <path d="M78.7429 236.542L189 304" stroke="#E0C253" stroke-width="5"/>
+    <path d="M149.1 150.732L242.728 268.672" stroke="#E0C253" stroke-width="5"/>
+    <path d="M258.388 117.329L246 269" stroke="#E0C253" stroke-width="5"/>
+    <path d="M360.22 154L304.901 271.26" stroke="#E0C253" stroke-width="5"/>
+    <path d="M304 273L301.304 391.736" stroke="#E0C253" stroke-width="5"/>
+    <path d="M244.167 267.515L275.5 378.821" stroke="#E0C253" stroke-width="5"/>
+    <path d="M305.486 272.699L243.054 269" stroke="#E0C253" stroke-width="5"/>
+    <path d="M243 270L187 303.797" stroke="#E0C253" stroke-width="5"/>
+    <path d="M187.5 305L263.236 405.628" stroke="#E0C253" stroke-width="5"/>
+    <path d="M68.3516 357.504L188.313 302.767" stroke="#E0C253" stroke-width="5"/>
+    <path d="M152.587 152.415L7.97023 102.908" stroke="#E0C253" stroke-width="5"/>
+    <path d="M79.4698 238.039L8.47024 104" stroke="#E0C253" stroke-width="5"/>
+    <path d="M304.621 272.326L432.718 246.923" stroke="#E0C253" stroke-width="5"/>
+    <path d="M356.515 335.08L299.106 398.449" stroke="#E0C253" stroke-width="5"/>
+    <path d="M2.46649 97.7739L10.9295 101.282L6.6574 105.92L2.46649 97.7739Z" fill="#E0C253"/>
+    <path d="M346.907 1.15955L346.672 13.5196L340.149 11.5112L346.907 1.15955Z" fill="#E0C253"/>
+    </g>
+    <g id="FOXbody">
+    <path d="M32.9702 544.389L155.47 650" stroke="#E0C253" stroke-width="7"/>
+    <path d="M47.7477 467.658L213.323 647.745" stroke="#E0C253" stroke-width="7"/>
+    <path d="M46.4482 463.25L252.974 538.957" stroke="#E0C253" stroke-width="7"/>
+    <path d="M188.277 386.908L282.586 544.931" stroke="#E0C253" stroke-width="7"/>
+    <path d="M358.081 335.54L305.264 554.946" stroke="#E0C253" stroke-width="7"/>
+    <path d="M358.5 334L362 335" stroke="#E0C253" stroke-width="7"/>
+    <path d="M142.353 375.86L46.7365 462.909" stroke="#E0C253" stroke-width="7"/>
+    <path d="M282.717 404.016L298.641 549.235" stroke="#E0C253" stroke-width="7"/>
+    <path d="M47.5346 460.713L34.1417 547.716" stroke="#E0C253" stroke-width="7"/>
+    <path d="M248.363 539.429L212.706 645.484" stroke="#E0C253" stroke-width="7"/>
+    <path d="M262.664 646.992L152.979 648.944" stroke="#E0C253" stroke-width="7"/>
+    <path d="M360.97 593L297.97 548" stroke="#E0C253" stroke-width="7"/>
+    <path d="M357.178 592.856L260.97 647.5" stroke="#E0C253" stroke-width="7"/>
+    <path d="M300.909 550.538L248.451 538" stroke="#E0C253" stroke-width="7"/>
+    <path  d="M368.659 593.798L356.045 597.211L357.832 586.481L368.659 593.798Z" fill="#E0C253"/>
+    </g>
+    <g id="FOXeyes">
+    <path d="M305.173 273.007L339.105 267.95L304.456 316.071L305.173 273.007Z" fill="#E0C253"/>
+    <path d="M186.07 305.155L205 330L150 322.463L186.07 305.155Z" fill="#E0C253"/>
+    </g>
+    <g id="FOXnose">
+    <path d="M283.643 406.736C295.082 404.246 303.748 399.714 302.999 396.614C302.249 393.513 292.368 393.019 280.928 395.509C269.489 397.999 260.823 402.531 261.573 405.631C262.322 408.732 272.203 409.226 283.643 406.736Z" fill="#E0C253"/>
+    <path d="M272.866 371L306 393.17L256 405.984L272.866 371Z" fill="#E0C253"/>
+    </g>
+</g>
+</svg>
