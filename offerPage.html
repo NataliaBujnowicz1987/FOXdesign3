@@ -218,38 +218,7 @@
         </footer>
     </div>
 
-    <!-- GSAP, JAVASCRIPT -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.4.2/gsap.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.4.2/ScrollTrigger.min.js"></script>
-
-    <script>
-        // =======================
-        // MOBILE DEVICES - MENU HAMBURGER
-        // =======================
-        const navSlide = () => {
-            const burger = document.querySelector('.hamburger');
-            const nav = document.querySelector('.nav-links');
-            const navLinks = document.querySelectorAll('.nav-links li');
-
-            burger.addEventListener('click', () => {
-                // Toggle nav
-                nav.classList.toggle('nav-active');
-                // Animate links - poprzez index kazdy kolejny element jest nieco opozniony 
-                navLinks.forEach((link, index) => {
-                    if (link.style.animation) {
-                        link.style.animation = '';
-                    } else {
-                        link.style.animation = `navLinkFade 1s ease forwards ${index / 4 + 1}s`;
-                    }
-                });
-                // burger animation to x symbol
-                burger.classList.toggle('toggle');
-            });
-        }
-
-        // now we have to invoke this function, without this it doesnt work
-        navSlide();
-    </script>
+    <script src="scripts/nav.js"></script>
 
 </body>
 
